@@ -12,15 +12,14 @@ It routes DNS queries through custom resolvers, allowing you to access Handshake
 - Default resolver:  
   -> https://github.com/james-stevens/handshake-volume-resolver
 - Support for custom DNS resolvers
-- Ability to fetch and resolve Handshake records
-- Quick Settings tile to toggle the VPN بسهولة
+- Ability to fetch records (A, AAAA, NS, CNAME, MX, TXT, TLSA)
 
 ---
 
 ## Usage
 
 1. Install and open the app  
-2. Activate the VPN (via app or Quick Settings tile)  
+2. Activate HNS
 3. Open your browser and access HNS domains  
 
  Important:  
@@ -42,7 +41,7 @@ This ensures the browser treats it as a valid URL and sends the request correctl
 
 ## How it works
 
-The app uses Android's `VpnService` to intercept DNS traffic and redirect it to Handshake-compatible resolvers.
+The app uses Android's `VpnService` to intercept DNS traffic and redirect it to HNS/ENS-compatible resolvers.
 
 ---
 
