@@ -1,8 +1,8 @@
-# HNS Android Resolver
+# HNS/ENS Android Resolver
 
-A lightweight Android VPN-based DNS resolver for the Handshake (HNS) ecosystem.
+A lightweight Android VPN-based DNS resolver for the HNS and ENSecosystem.
 
-It routes DNS queries through custom resolvers, allowing you to access Handshake domains directly from your device.
+It routes DNS queries through custom resolvers, allowing you to access HNS/ENS domains directly from your device.
 
 ---
 
