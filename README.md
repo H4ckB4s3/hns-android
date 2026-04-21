@@ -51,7 +51,7 @@ This app uses the resolver developed by James Stevens by default.
 
 - Source: https://github.com/james-stevens/handshake-volume-resolver
 
-This project is based on the original **Daedalus** DNS resolver:
+This project is based on the **Daedalus** DNS resolver:
 
 - Source: https://github.com/iTXTech/Daedalus
 
