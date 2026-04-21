@@ -24,7 +24,7 @@ It routes DNS queries through custom resolvers, allowing you to access Handshake
 3. Open your browser and access HNS domains  
 
 ⚠️ Important:  
-You must type domains like: http://example/ or example/
+You must type domains like: http://example or example/
 
 This ensures the browser treats it as a valid URL and sends the request correctly.
 
