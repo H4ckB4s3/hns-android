@@ -25,7 +25,7 @@ It routes DNS queries through custom resolvers, allowing you to access HNS/ENS d
  Important:  
 You must type domains like:
 
-http://example/ or example/
+http://example or example/
 
 This ensures the browser treats it as a valid URL and sends the request correctly.
 
